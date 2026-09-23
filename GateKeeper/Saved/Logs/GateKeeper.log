@@ -2166,3 +2166,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.23-15.26.11:065][163]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' subface 0 in Render thread.
 [2026.09.23-15.26.11:065][163]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' subface index 0 successfully added to font face map in Render thread.
 [2026.09.23-15.27.23:461][884]LogDerivedDataCache: C:/Users/nethe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.372 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17077 files in 17582 folders with total size 627 MiB.
+[2026.09.23-15.30.45:457][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 338.947784
+[2026.09.23-15.30.46:457][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-15.30.46:457][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 339.615387, Update Interval: 321.792053
