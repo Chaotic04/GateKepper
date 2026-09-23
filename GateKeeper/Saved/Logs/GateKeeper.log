@@ -2169,3 +2169,39 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.23-15.30.45:457][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 338.947784
 [2026.09.23-15.30.46:457][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.09.23-15.30.46:457][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 339.615387, Update Interval: 321.792053
+[2026.09.23-15.36.11:135][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 664.626099
+[2026.09.23-15.36.12:137][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-15.36.12:137][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 665.289673, Update Interval: 332.397827
+[2026.09.23-15.41.48:860][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1002.351196
+[2026.09.23-15.41.49:871][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-15.41.49:871][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1003.026611, Update Interval: 348.846710
+[2026.09.23-15.47.51:534][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1365.025513
+[2026.09.23-15.47.52:533][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-15.47.52:534][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1365.691284, Update Interval: 309.342316
+[2026.09.23-15.49.57:635][516]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Boss/Boss.Boss
+[2026.09.23-15.49.57:677][516]LogStreaming: Display: FlushAsyncLoading(742): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-15.49.58:038][516]LogBlueprintEditor: Perf: 0.4 total seconds to load all 9 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2026.09.23-15.49.58:038][516]LogBlueprintEditor: Perf: 0.2 seconds loading: /PCG/BP_Elements/Resources/RenderTargetFunctions
+[2026.09.23-15.50.00:006][516]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' with subface index 0 in Game thread.
+[2026.09.23-15.50.00:006][516]LogSlate: Display: Took 0.006013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K) on Game thread.
+[2026.09.23-15.50.00:006][516]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface 0 in Game thread.
+[2026.09.23-15.50.00:006][516]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.09.23-15.51.50:452][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.09.23-15.51.50:455][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/arenabase' took 0.062
+[2026.09.23-15.51.50:457][427]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Boss/Boss] ([2] browsable assets)...
+[2026.09.23-15.51.50:532][427]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Boss/Boss.Boss_C]
+[2026.09.23-15.51.50:543][427]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Boss/Boss.Boss]
+[2026.09.23-15.51.50:543][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Boss/Boss]
+[2026.09.23-15.51.50:580][427]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Boss/Boss_Auto1
+[2026.09.23-15.51.50:581][427]LogSavePackage: Moving '../../../../../../Users/nethe/OneDrive/Documents/GitHub/adv.programming/GateKepper/GateKeeper/Saved/Boss_Auto1BBA535D14D1DBFF048037381279F33EE.tmp' to '../../../../../../Users/nethe/OneDrive/Documents/GitHub/adv.programming/GateKepper/GateKeeper/Saved/Autosaves/Game/Boss/Boss_Auto1.uasset'
+[2026.09.23-15.51.50:585][427]LogFileHelpers: Auto-saving content packages took 0.130
+[2026.09.23-15.52.53:083][938]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' with subface index 0 in Game thread.
+[2026.09.23-15.52.53:083][938]LogSlate: Display: Took 0.006629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K) on Game thread.
+[2026.09.23-15.52.53:083][938]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' subface 0 in Game thread.
+[2026.09.23-15.52.53:083][938]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.09.23-15.53.22:342][704]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1695.829956
+[2026.09.23-15.53.23:342][707]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-15.53.23:342][707]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1696.496216, Update Interval: 336.230347
+[2026.09.23-15.59.37:474][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2070.961670
+[2026.09.23-15.59.38:810][832]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-15.59.38:810][832]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2071.961914, Update Interval: 332.009644
